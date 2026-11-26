@@ -20,3 +20,16 @@ PDFs textuais são importados automaticamente quando o parser reconhece empresas
 
 ## V6
 Importador automático por coordenadas de tabela e reconhecimento de listas. Requer PDF com texto e internet. Testado com dados sintéticos, não com o PDF original. Inclua importer.js na publicação.
+
+
+V7: favicon.ico incluido. Publique todos os arquivos juntos.
+
+## V8 — Mensagens de WhatsApp
+Ao clicar em WhatsApp em uma prospecção, abre uma conversa com mensagem personalizada pelo nome, nota, avaliações, segmento e situação do site. Dados ausentes não são inventados. O envio é manual.
+
+
+## V9 — Identidade visual oficial
+Paleta DRAPHOS, interface clara, menu azul petróleo, logotipo recortado do material fornecido. Nenhuma mudança no armazenamento ou na lógica da V8.
+
+
+V10: favicon com o logo DRAPHOS existente, versões ICO e PNG. Publique todos os arquivos na raiz do repositório.
