@@ -43,3 +43,5 @@ As abas do CRM no mesmo navegador, perfil e origem recebem atualizações via ev
 
 ## V14 — Estúdio criativo
 Removida a integração externa do Post Planner. O Estúdio criativo e os registros de conteúdo permanecem disponíveis. A chave de armazenamento do CRM foi preservada.
+
+V15: Propostas e Contratos separados; modelos preliminares editáveis baseados no histórico comercial (site indisponível). Minutas requerem revisão jurídica e preenchimento de escopo, partes e valores. Imprimir / salvar PDF pelo navegador. Dados locais e backups anteriores preservados.
