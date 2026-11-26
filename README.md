@@ -14,3 +14,9 @@ Na Prospecção, use Resposta / retorno para registrar o resultado e agendar uma
 
 ## V4 — Metas semanais
 Em Tarefas, selecione a semana (segunda a domingo), crie metas quantitativas e registre progresso manualmente pelos botões +1/-1 ou Editar. O painel contabiliza automaticamente tarefas concluídas e vencidas pelo prazo da semana. Metas são salvas no mesmo armazenamento local e incluídas no backup JSON exportado. A agenda de prospecção e os controles de resposta da V3 permanecem disponíveis.
+
+## V5
+PDFs textuais são importados automaticamente quando o parser reconhece empresas. A lista fica no controle de respostas; altere a resposta e agende retornos diretamente. Duplicatas por nome são ignoradas. PDFs escaneados ou formatos não reconhecidos exigem revisão manual. Faça backup antes da atualização.
+
+## V6
+Importador automático por coordenadas de tabela e reconhecimento de listas. Requer PDF com texto e internet. Testado com dados sintéticos, não com o PDF original. Inclua importer.js na publicação.
