@@ -33,3 +33,13 @@ Paleta DRAPHOS, interface clara, menu azul petróleo, logotipo recortado do mate
 
 
 V10: favicon com o logo DRAPHOS existente, versões ICO e PNG. Publique todos os arquivos na raiz do repositório.
+
+
+## V12 — Estúdio criativo
+Novo módulo nativo com três conceitos por briefing, oito direções visuais, foto local, prompts e integração com registros de conteúdo. Geração por modelos locais, sem API de IA ou renderização final. A foto não é persistida.
+
+## V13 — Sincronização entre abas
+As abas do CRM no mesmo navegador, perfil e origem recebem atualizações via evento storage. Alterações em formulários e no estúdio não são interrompidas; a atualização visual ocorre ao sair dessas telas. Alterações independentes são mescladas ao salvar; edições conflitantes do mesmo campo seguem o último salvamento. Não é sincronização em nuvem. Faça backup antes de atualizar.
+
+## V14 — Estúdio criativo
+Removida a integração externa do Post Planner. O Estúdio criativo e os registros de conteúdo permanecem disponíveis. A chave de armazenamento do CRM foi preservada.
