@@ -49,3 +49,6 @@ V15: Propostas e Contratos separados; modelos preliminares editáveis baseados n
 
 ## V16 — Black Friday
 Modelo adicional em Propostas e Contratos, com valor, escopo, validade e período promocional editáveis. Preencha todos os campos antes de emitir. Oferta oficial não verificada.
+
+## V17 — Cadência de prospecção
+No WhatsApp de cada prospecto, selecione o modelo, revise a mensagem, abra o WhatsApp e confirme manualmente o envio. Dia 1 inicia a sequência; dias 3, 7 e 15 são calculados a partir desse início. A abordagem ousada é uma alternativa ao dia 1. A confirmação cria a próxima tarefa; a resposta registrada no controle de respostas pausa a sequência. Para dia 7, confirme ou informe um link do mesmo segmento. Não há envio automático nem leitura de respostas do WhatsApp. Os dados continuam no armazenamento local existente.
